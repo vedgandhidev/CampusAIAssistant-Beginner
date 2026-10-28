@@ -1,0 +1,19 @@
+Library, lunch, and lost items
+At Example School, the library is open on school days from 8:00 AM until 4:00 PM. Students may borrow books at the library desk by showing a school ID. A book can be checked out for two weeks. To renew a book, students should speak with library staff before the due date.
+Lunch starts at 12:15 PM in the cafeteria. Students should check with their classroom teacher if their class has a different lunch schedule. The school office can answer questions about cafeteria accommodations.
+The lost and found is located at the main office in Room 101. Students who have misplaced a coat, backpack, or water bottle should check Room 101 before asking a staff member for help. Do not give personal identifying details to a public chatbot.
+
+Academic integrity and responsible AI
+Students at Example School may use AI tools for an assignment only if their teacher permits it. When AI use is allowed, students must explain which parts of the work AI helped them create. An AI answer should be checked against other sources because AI can be incorrect.
+Students must not enter private student information, passwords, grades, or classmates' personal details into an AI tool. Students are responsible for their submitted assignments, even when AI is used. When in doubt about whether a tool is permitted, ask a teacher.
+This manual is fictional and intended only for a classroom demonstration. It does not represent the policy of any real school or district.
+
+Robotics, drones, and supervised projects
+Drones are not allowed on the Example School campus unless school staff grant written permission in advance. Students may not fly drones independently during lunch, recess, or after-school activities. Safety instructions from supervising teachers must always be followed.
+There is a limited exception for supervised robotics projects. A teacher may request written permission from the administration before a planned activity. If permission is granted, the project must have adult supervision and a designated safe location. The exception does not allow unsupervised drone flights.
+Small classroom robots that do not fly may be used as part of teacher-approved lessons. Students should follow classroom instructions and never assume that rules for wheeled robots automatically apply to drones.
+
+Student services and clubs
+Students who need a replacement school ID should visit the main office in Room 101 during school hours. The office may request confirmation from a teacher before issuing a new badge.
+The robotics club meets on Wednesdays after school in the fictional technology classroom, Room 205. Students should confirm dates and room changes with the club adviser because this handbook may be outdated.
+The school handbook does not answer every possible question. If a detail is missing, the assistant should clearly say it cannot confirm the answer from these pages instead of inventing a policy.

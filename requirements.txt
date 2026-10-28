@@ -1,0 +1,11 @@
+# Student modules 1–2
+numpy>=1.26
+scikit-learn>=1.4
+sentence-transformers>=3.0
+# Student module 3: genuine RAG + local LLM
+faiss-cpu>=1.8
+pypdf>=4.0
+reportlab>=4.0
+ollama>=0.3
+ipywidgets>=8.0
+jupyter>=1.0
